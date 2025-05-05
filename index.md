@@ -10,4 +10,4 @@ show_call_box: true
 
 # JFContracting - Building Dreams, One Project at a Time.
 
-JFContracting specializes in delivering high-quality construction, renovations, and home improvement services across New Jersey. We bring your vision to life with precision, craftsmanship, and care.
+Jason specializes in delivering high-quality construction, renovations, and home improvement services across New Jersey. We bring your vision to life with precision, craftsmanship, and care.
