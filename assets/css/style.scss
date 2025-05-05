@@ -2,9 +2,9 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #006400; // Dark green from the logo
+$primary-dark: #004d00; // A darker shade of green
+$secondary: #32CD32; // Light green for accents
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
@@ -108,9 +108,11 @@ $sub-footer-text-color: $white;
 @import "pages/page-service";
 
 body {
+  background-color: #f0fff4; // Light green tone
   font-size: 16px;
   line-height: 1.2;
   font-family: $font-family-base;
+
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;

@@ -10,4 +10,4 @@ show_call_box: true
 
 # JFContracting - Building Dreams, One Project at a Time.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+JFContracting specializes in delivering high-quality construction, renovations, and home improvement services across New Jersey. We bring your vision to life with precision, craftsmanship, and care.

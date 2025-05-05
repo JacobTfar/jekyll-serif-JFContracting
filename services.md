@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: "Explore our expert home improvement and contracting services at JFContracting."
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/services.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
